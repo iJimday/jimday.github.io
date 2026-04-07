@@ -2,6 +2,7 @@
 
 User-agent: *
 Disallow: /
+Disallow: /bin/
 Disallow: /cgi-bin/
 
 Sitemap:
