@@ -1,0 +1,6 @@
+# 禁止所有爬虫访问整个网站
+
+User-agent: *
+Disallow: /
+
+Sitemap:
